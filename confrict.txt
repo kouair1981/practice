@@ -2,3 +2,4 @@ confrict test
 merge test
 write work1
 merge test2
+write work2
