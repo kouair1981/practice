@@ -1,2 +1,3 @@
 confrict test
 merge test
+write work1
