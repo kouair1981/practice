@@ -3,4 +3,8 @@ merge test
 write work1
 merge test2
 write work2
+<<<<<<< HEAD
+write work3
+=======
 branch merge
+>>>>>>> remotes/origin/branch1
