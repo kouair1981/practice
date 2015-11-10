@@ -1,4 +1,5 @@
 branch only
 master edit
 branch confrict
+TortoiseGit branch merge test
 windows local edit
