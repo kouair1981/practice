@@ -4,3 +4,4 @@ branch confrict
 TortoiseGit branch merge test
 windows local edit
 cherry-pick test
+add tag
